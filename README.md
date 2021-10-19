@@ -1,2 +1,3 @@
-# Donation-Page-Payment-Gateway
-It's a payment gateway integration, a project given by Spark Foundation #spark_foundation #grip #october_2021 
+# Payment-Gateway-Integration-in-Donation-Page
+I have made a website of payment gateway integration which was a task given to me from the sparks foundation
+#sparks_foundation #grip #sep2021
